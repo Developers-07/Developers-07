@@ -1,6 +1,6 @@
 <img src="https://github.com/Developers-07/Developers-07/blob/main/web.jpg" alt="picture" width="1000" height="300">
 <h1 align="center">Hi 👋, I'm Zishan Kabir Chowdhury</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3><br/>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated coding gif" width="400">
 
@@ -11,6 +11,7 @@
 - 📫 How to reach me **zishan15-11449@diu.edu.bd**
 
 - ⚡ Fun fact **I am Introvert😊**
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developers-07&show_icons=true&locale=en&layout=compact" alt="developers-07" /></p><br/>
 
-<p> <br/><br/><br/><br/><br/><br/><br/><br/> <img align="left" src="https://github-readme-stats.vercel.app/api?username=developers-07&show_icons=true&locale=en" alt="developers-07" /></p><br/>
+<p> <br/><br/><br/><br/><br/><br/><br/><br/> <img align="left" src="https://github-readme-stats.vercel.app/api?username=developers-07&show_icons=true&locale=en" alt="developers-07" /></p><br/><br/><br/><br/><br/>
 
 <p><br/><br/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=developers-07&" alt="developers-07" /></p>
 
