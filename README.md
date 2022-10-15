@@ -1,4 +1,4 @@
-![logo](https://github.com/Developers-07/Developers-07/blob/main/web.jpg)
+<img src="https://github.com/Developers-07/Developers-07/blob/main/web.jpg" alt="picture" width="1000">
 <h1 align="center">Hi 👋, I'm Zishan Kabir Chowdhury</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
