@@ -1,4 +1,4 @@
-<img src="https://github.com/Developers-07/Developers-07/blob/main/flash-web-designing.jpg" alt="picture" width="1040" height="300">
+<img src="https://github.com/Developers-07/Developers-07/blob/main/flash-web-designing.jpg" alt="picture" width="1030" height="300">
 <h1 align="center">Hi 👋, I'm Zishan Kabir Chowdhury</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3><br/>
 
